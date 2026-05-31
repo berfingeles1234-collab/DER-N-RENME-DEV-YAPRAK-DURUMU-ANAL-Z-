@@ -4,6 +4,12 @@ Derin öğrenme tabanlı bitki yaprak hastalığı tespit ve sınıflandırma pr
 
 ---
 
+
+![Uploading Ekran görüntüsü 2026-05-31 100730.png…]()
+![Uploading Ekran görüntüsü 2026-05-31 100847.png…]()
+![Uploading Ekran görüntüsü 2026-05-31 100834.png…]()
+![Uploading Ekran görüntüsü 2026-05-31 100712.png…]()
+
 ## Projenin Amacı
 
 Bu proje, tarım alanında bitki yapraklarının fotoğraflarını analiz ederek:
