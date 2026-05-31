@@ -3,12 +3,13 @@
 Derin öğrenme tabanlı bitki yaprak hastalığı tespit ve sınıflandırma projesi.
 
 ---
+<img width="1280" height="760" alt="Ekran görüntüsü 2026-05-31 100712" src="https://github.com/user-attachments/assets/da96a60d-a9bf-4932-aca1-b1092539ad36" />
 
+<img width="1280" height="720" alt="Ekran görüntüsü 2026-05-31 100834" src="https://github.com/user-attachments/assets/dd94fcb4-691c-4503-81e2-4ca56baaa1b3" />
 
-![Uploading Ekran görüntüsü 2026-05-31 100730.png…]()
-![Uploading Ekran görüntüsü 2026-05-31 100847.png…]()
-![Uploading Ekran görüntüsü 2026-05-31 100834.png…]()
-![Uploading Ekran görüntüsü 2026-05-31 100712.png…]()
+<img width="1272" height="712" alt="Ekran görüntüsü 2026-05-31 100730" src="https://github.com/user-attachments/assets/1843c1f1-3293-49c1-8fa8-e20962e603c7" />
+
+<img width="1280" height="678" alt="Ekran görüntüsü 2026-05-31 100847" src="https://github.com/user-attachments/assets/d99abd2e-e34c-4a83-83dd-536df44d674e" />
 
 ## Projenin Amacı
 
